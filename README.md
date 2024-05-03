@@ -1,5 +1,7 @@
 ### Ola eu sou o Lucas Maia Franco
 
+Com experiência de mais de 10 anos na área de TI, principalmente atuando com sistema operacional LINUX e infraestrutura em geral, tive a oportunidade de implementar e trabalhar com diversas ferramentas como Apache, Zabbix, Grafana, GLPI, Bacula e diversas outras. Tenho facilidade em me comunicar e aprender, sempre com espírito colaborativo e proativo para solucionar com qualidade e rapidez os desafios que sou submetido. Graças as minhas iniciativas e atitudes, já desenvolvi várias soluções que facilitaram o dia a dia de trabalho da equipe e impediram futuros incidentes.
+
  <div>
   <a href="https://github.com/lucasmaiafranco">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmaiafranco&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
